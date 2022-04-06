@@ -1,0 +1,23 @@
+.gpt3__brand h1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-family: var(--font-family);
+    font-weight: 700;
+    /* font-size: 45px; */
+    line-height: 100px;
+    letter-spacing: -0.04em;
+    margin-top: -50px;
+}
+
+.gpt3__brand p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-family: var(--font-family);
+    /* margin-top: -50px; */
+}
